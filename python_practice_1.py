@@ -1,0 +1,1 @@
+print("Dohaieva Yelyzaveta, CS group 6")
